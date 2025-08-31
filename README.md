@@ -13,7 +13,7 @@ Visão de alto nível dos **atores externos**, da **plataforma** e suas **integr
 
 ### 2. Containers (C4 – Nível 2)
 Mostra os principais blocos da solução (**frontends, backend modular, integrações e infraestrutura**).  
-👉 [Ver diagrama](02-containers.md)
+👉 [Ver diagrama](Docs/02-containers.md)
 
 ### 3. Componentes (C4 – Nível 3 – Booking & Payments)
 Foco no fluxo de **reserva e pagamento**, detalhando **controllers, application layer e domain models**.  
